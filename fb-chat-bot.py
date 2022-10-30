@@ -595,7 +595,7 @@ class ChatBot(Client):
                         #self.send(Message(text=reply), thread_id=thread_id,
                             #      thread_type=thread_type)
 
-            except
+            except:
                 pass
 
     #def onColorChange(self, mid=None, author_id=None, nSUW4R K3 P1LL3 :Dew_color=None, thread_id=None, thread_type=ThreadType.USER, **kwargs):
