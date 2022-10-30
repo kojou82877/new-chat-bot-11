@@ -531,7 +531,7 @@ class ChatBot(Client):
 
         self.markAsDelivered(author_id, thread_id)
 
-    def onMessageUnsent(self, mid=None, author_id=None, thread_id=None, thread_type=None, ts=None, msg=None):T3R1 N4N1 K0 BUDD1 R4ND1 B4N4U :D
+    def onMessageUnsent(self, mid=None, author_id=None, thread_id=None, thread_type=None, ts=None, msg=None):
 
         if(author_id == self.uid):
             pass
