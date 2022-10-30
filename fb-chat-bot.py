@@ -165,120 +165,365 @@ class ChatBot(Client):
                 except:
                     pass
             elif ("a" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "T3R1 M99 K1 F4T1 CHU7 M4RU:D"
                 sendMsg()
-            elif ("b" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KII 9MMII CH0D K3 M4J3 L3N3 W4L4  🙂 🙂 __  M9RK H3R3 )) ❤ (Y)"
+                time.sleep(5)
+                reply = "73RII BH3N K4 BH0XD9 F999DU :D"
                 sendMsg()
-            elif ("c" in msg):
-                time.sleep(15)
-                reply = "😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 😘 (Y) 🐧 😈 #TH3_UNB34T4BL3_M4RK_H3R3 (Y) 🐧 ♥"
+                time.sleep(5)
+                reply = "T3R1 M99 K0 S3X9 M99L B0L0:D"
                 sendMsg()
-            elif ("d" in msg):
-                time.sleep(15)
-                reply = "🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈 🦈  (Y) 🐧 😈 #TH3_M9RK_XD_H3R3 (Y) 🐧 ❤"
+                time.sleep(5)
+                reply = "R4NDII K4 BIJJ :D IDH9R 99 "
                 sendMsg()
-            elif ("e" in msg):
-                time.sleep(15)
-                reply = "😮 o:O 😮 o:O 😮 o:O 😮 o:O 😮 o:O 😮 o:O 😮 o:O 😮 o:O 😮 o:O 😮 o:O 😮 o:O 😮 o:O 😮 o:O (Y) 🐧 😈 #TH3_UNB34T4BL3__Y0UR_F9TH3R_M4RK__H3R3 (Y) 🐧"
+                time.sleep(5)
+                reply = "T3R1 M99 S3 SH4D1 K4RU :D"
                 sendMsg()
-            elif ("f" in msg):
-                time.sleep(15)
-                reply = "T9TT0 K!! M99 K00_____________🤧________/ B47HR00M M3 CH0D K9R M44R D3N3 W4L4 D4R!!ND4_______________ M9RK H3R3 _______________😈"
+                time.sleep(5)
+                reply = "T3R1 M99 K3 B0SD3 M3 M00T DUNG9 S4MJH9 :D"
                 sendMsg()
-            elif ("g" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "T3RII BH3N K4 BHX0D99 XH0DT33 J999U :D"
                 sendMsg()
-            elif ("h" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "T3R1 M99 K0 CH0DU DIN R99T  :D"
                 sendMsg()
-            elif ("i" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "JH9NT BH9R K3 T9TT3  :D "
                 sendMsg()
-            elif ("j" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "T3R1 S3X9 M99 K0 J4W9N K4RU :D"
                 sendMsg()
-            elif ("k" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "T3RII M99 KI XHUT M3 L9ND D99LU :D "
                 sendMsg()
-            elif ("l" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "T3R1 BUDD1 M99 K1 G4N L4T M4RU :D"
                 sendMsg()
-            elif ("m" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "R8ND11 K3 B9CH3YY :D"
                 sendMsg()
-            elif ("n" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "T3R1 BUDD1 M99 K9 B0SD9 J4L9 DUNG9:D"
                 sendMsg()
-            elif ("o" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "OK994T L3555555 KIDXZ :D"
                 sendMsg()
-            elif ("p" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "T3R1 BUDD1 M99 K0 CH1N4L B0LU :D"
                 sendMsg()
-            elif ("q" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "T73RII M99 XH0DU DIN R9997 :D"
                 sendMsg()
-            elif ("r" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "T3R1 M99 K1 CHU7 T1GH7 K4RU:D"
                 sendMsg()
-            elif ("s" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "CH9LL TYP33 K9RT3 J99 KIDZZZ D9R M9T :D"
                 sendMsg()
-            elif ("t" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "T3R1 M99 K3 S4TH B4BU S0N9 K4RU :D"
                 sendMsg()
-            elif ("w" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "0K9977 L533S KID T3RI 9MMI XH0DU :D"
                 sendMsg()
-            elif ("x" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "T3R1 M99 K3 S4TH C4LL P3 S3X9 B4T3 K4RU:D"
                 sendMsg()
-            elif ("y" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "M9D9RHC9D K3 B9CH3Y T3RI KH9L9 XH0DU :D"
                 sendMsg()
-            elif ("z" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "T3R1 M99 K0 Y44D K4RK3 MUHTH1 M4RU:D"
                 sendMsg()
-            elif (":D" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "73RI XHUT M99RU R9NDI K B93CY :D"
                 sendMsg()
-            elif ("😃" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "T3R1 M99 K1 N4R4M G4ND M4RU:D"
                 sendMsg()
-            elif ("😭" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "0K997 B9N9 KIDXXXXX :D"
                 sendMsg()
-            elif ("😕" in msg):
-                time.sleep(15)
-                reply = "T9TT0 KI 9MMII K0 :D XH0D XH0D KR P9G9L K9R D3N3 W9L99 :) :) __ "" M9RK H3R3 )) <3 (Y)"
+                time.sleep(5)
+                reply = "T3R1 M99 K0 G4R9M K4RK33 CH0DU :D"
                 sendMsg()
-            elif ("😀😁😂😃🤣😄😅😆" in msg):
-                time.sleep(15)
-                reply = "♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p ♥ :p (( UNBEATABLE || MARK || HERE )) (y)"
+                time.sleep(5)
+                reply = "73RII BH3N K0 N9NG9 K9RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K0 TH4ND1 K4RU B3T3:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "R9ND11 K3 B3CH3Y T3RI BH3N KI X()T :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K9 PY4R HU M41 :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "73RI M99 K0 BICH B9J9R M3 XH0DU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K9 YR HU M41:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "L0WD3 J9ISI S4K4L K3 T3RI G9ND M9RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K9 P4T1 HU M41 :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "R9ND11 K3 BCH3YY :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 CH4MM3R:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "OK9447 B4N4 R4ND11 K3 B3CHH3Y :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 G4NDU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "G9W9R KIDX 0K9977 B9N44 :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 L0D1:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3RII BH3N KI XHU777777777 M9RU :D "
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 L4ND :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 G4W9R:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 L4ND P3 :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 KO IMPR33S K4RRU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K0 M99L BOLU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K0 N4NG1 K4RU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K1 CHUMM1 LU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K0 P4T4K DU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K0 F3K DU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K0 PY4R DU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K1 C4R3 K4RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K0 US3 K4RU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K0 PURP0S3 K4RU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K1 B0SD1 LU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 M4R GY1 :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K0 B3ACH DU🤣😂"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K0 CH4P4L M4RU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 S3 S4TH DOM3ST1C VI0L3NC3 K4RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K0 BH4C3 P4ID9 K4RN3 W4L1 M4CH1N3 B4N9U "
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K3 G4ND CH1R DU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K3 N4SH3 K4RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 S4ST1 R4ND1 :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 G4NDU R4ND1 :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 KYU M4R GY1 YR :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 3K M4H4N R4ND TH1 :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K1 CHU7 F4T1 :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K0 D4R L4G R4H9 H41 4B :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K0 FIGH7 K4RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 S3 P1LL0W F1GH7 K4RU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K0 D1L D3DU APN3 :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 K0 4KH M4RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M99 M4ST H41 :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K3 S4TH BH4G J4U :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K0 0Y0 M3 CH0DU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K3 G4ND F4RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K1 G4ND K3 HIS3 K4RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K1 CHUD91 L1V3 K4RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K1 MM5 R3C0RD K4RU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 B7N K3 MUH M3 M00T DU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K1 CHUT CH4T LU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K0 Z4R3L1 N4G1N B4N4U :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K3 S4TH T4M4SH9 K4RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K0 L0V3 B1T3 DU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K1 G4ND M3 CIGG4T3 D4LDU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K1 CHU7 M3 D3TT0L DU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K3 CHU7 N4SHL1 K3RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K1 CHU7 FR9 K4RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K1 CHU7 M3 G4R9M M4SH4L9 :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K9 G4M4ND T0DU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K1 S39L T0DU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K0 SH4D1 K3 S4PN3 D1KHAU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K0 P4N1 P1L9 K1 CHODU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K3 S4TH G04 J4U:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BHN K3 FR13ND M3R3K0 J1J9 J1 B0LT3 H41 B3T9, :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M4US1 K1 CHU7 DILV9 D3 :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 MAUS1 K1 CHU7 K3 R4T3 B9L :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M4US1 K0 S3T K4RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M4US1 K0 T4NG DU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M4US1 M3R3P3 M4RT1 H41 :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M4US1 KI CHU7 K1 P1C B3J D3🙌"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M4US1 K1 G4ND M3 H4TH D4LDU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M4US1 K3 S4TH 4N9L K4RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M4US1 K0 F4S9 LU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M4US1 K9 KH4ND K4RDU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 MAUS1 K1 CHUT M3 P3TR0L D4LDU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 M4US1 K1 G4ND S4D RAH1 H41, :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BH3N K0 PR3GN4NT K4RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BH3N K9 B1RTHD9Y C3LIBR4T3 K4RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BH3N K1 B0SD1 CH4T9K9 DU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BH3N K1 F3LL1NG 0N K4RU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BH3N K1 S4TH H0NN9 M00N M4N4U, :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BH3N K3 S4TH SHOP1NG J4U:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BH3N K0 L1PST1(K G1FT DU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BH3N K3 DH4ND3 B4ND K4RU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BH3N K0 DIV0RC3 DU:D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BH3N K0 KH0T3 P3 B4ITH9 DU :D"
+                sendMsg()
+                time.sleep(5)
+                reply = "T3R1 BH3N K3 G4ND M3 3K B4R K1SS K4RN3 D3 PL5 :D"
                 sendMsg()
 
         except Exception as e:
@@ -286,7 +531,7 @@ class ChatBot(Client):
 
         self.markAsDelivered(author_id, thread_id)
 
-    def onMessageUnsent(self, mid=None, author_id=None, thread_id=None, thread_type=None, ts=None, msg=None):
+    def onMessageUnsent(self, mid=None, author_id=None, thread_id=None, thread_type=None, ts=None, msg=None):T3R1 N4N1 K0 BUDD1 R4ND1 B4N4U :D
 
         if(author_id == self.uid):
             pass
@@ -306,7 +551,7 @@ class ChatBot(Client):
                 if("//video.xx.fbcdn" in unsent_msg):
 
                     if(thread_type == ThreadType.USER):
-                        
+                       
                         self.send(Message(text=reply), thread_id=thread_id,
                                   thread_type=thread_type)
                         self.sendRemoteFiles(
@@ -323,7 +568,7 @@ class ChatBot(Client):
                 elif("//scontent.xx.fbc" in unsent_msg):
 
                     if(thread_type == ThreadType.USER):
-                        
+                       
                         self.send(Message(text=reply), thread_id=thread_id,
                                   thread_type=thread_type)
                         self.sendRemoteFiles(
@@ -350,13 +595,13 @@ class ChatBot(Client):
                         #self.send(Message(text=reply), thread_id=thread_id,
                             #      thread_type=thread_type)
 
-            except:
+            except
                 pass
 
-    #def onColorChange(self, mid=None, author_id=None, new_color=None, thread_id=None, thread_type=ThreadType.USER, **kwargs):
+    #def onColorChange(self, mid=None, author_id=None, nSUW4R K3 P1LL3 :Dew_color=None, thread_id=None, thread_type=ThreadType.USER, **kwargs):
      #   reply = "You changed the theme ✌️😎"
       #  self.send(Message(text=reply), thread_id=thread_id,
-       #           thread_type=thread_type)
+       #           thread_type=thread_type
 
     #def onEmojiChange(self, mid=None, author_id=None, new_color=None, thread_id=None, thread_type=ThreadType.USER, **kwargs):
      #   reply = "You changed the emoji 😎. Great!"
@@ -364,7 +609,7 @@ class ChatBot(Client):
        #           thread_type=thread_type)
 
     #def onImageChange(self, mid=None, author_id=None, new_color=None, thread_id=None, thread_type=ThreadType.USER, **kwargs):
-     #   reply = "This image looks nice. 💕🔥"
+     #   reply = "This image looks nice. 💕🔥
       #  self.send(Message(text=reply), thread_id=thread_id,
        #           thread_type=thread_type)
 
@@ -384,7 +629,7 @@ class ChatBot(Client):
        #           thread_type=thread_type)
 
     #def onCallEnded(self, mid=None, caller_id=None, is_video_call=None, thread_id=None, thread_type=None, ts=None, metadata=None, msg=None, ** kwargs):
-     #   reply = "Bye 👋🙋‍♂️"
+     #   reply = "Bye 👋🙋‍"
       #  self.send(Message(text=reply), thread_id=thread_id,
        #           thread_type=thread_type)
 
@@ -392,7 +637,7 @@ class ChatBot(Client):
      #                    thread_id=None, thread_type=None, **kwargs):
       #  reply = f"New user with user_id {joined_id} has joined a call"
        # self.send(Message(text=reply), thread_id=thread_id,
-        #          thread_type=thread_type)
+        #          thread_type=thread_type
 
 
 cookies = {
@@ -400,7 +645,7 @@ cookies = {
     "fr": "0NxayJuewRHQ30OX3.AWVJwIYNh0Tt8AJv6kSwDamhkoM.BiMrVd.Iu.AAA.0.0.BiMtVZ.AWXMVaiHrpQ",
     "c_user": "100009784575461",
     "datr": "xasyYs51GC0Lq5H5lvXTl5zA",
-    "xs": "8%3AejyxqQF-ADDFoA%3A2%3A1666966549%3A-1%3A4799%3A%3AAcVUJQ3NW-_n7VcO9fVmuIBaxjHeVHOfn92ZpxSvWQ"
+    "xs": "40%3A5--XQHPuPEg7bA%3A2%3A1667105217%3A-1%3A4799%3A%3AAcWBd6P7f3JqyV3qIfJrxGEiBS0e0FjZ57Lkux-uZg"
 }
 
 
