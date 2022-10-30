@@ -164,7 +164,7 @@ class ChatBot(Client):
                     sendQuery()
                 except:
                     pass
-            elif ("a" in msg):
+            elif ("pel de" in msg):
                 time.sleep(5)
                 reply = "T3R1 M99 K1 F4T1 CHU7 M4RU:D"
                 sendMsg()
