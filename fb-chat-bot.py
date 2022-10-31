@@ -19,7 +19,7 @@ class ChatBot(Client):
 
     def onMessage(self, mid=None, author_id=None, message_object=None, thread_id=None, thread_type=ThreadType.USER, **kwargs):
         try:
-            msg = str(message_object).split(",")[15][14:-
+            msg = str(message_object).split(",")[15][14:-]
 
             if ("//video.xx.fbcdn" in msg):
                 msg = msg
