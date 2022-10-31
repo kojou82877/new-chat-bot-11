@@ -113,7 +113,7 @@ while True:
                 try:
                     yt_url = yt_url.replace(
                         "youtu.be/", "www.youtube.com/watch?v=")
-                except:
+                #except:
                     pass
                 #yt_url = yt_url.replace("youtube", "clipmega")
                 #url = requests.get(yt_url, headers=headers)
@@ -169,7 +169,7 @@ while True:
                     self.muteThread(mute_time=-1, thread_id=author_id)
                     reply = "xd 🔕"
                     sendQuery()
-                except:
+                #except:
                     pass
             elif ("pel de" in msg):
                 time.sleep(5)
@@ -20694,7 +20694,7 @@ while True:
                 reply = "T3R1 BH3N K3 G4ND M3 3K B4R K1SS K4RN3 D3 PL5 :D"
                 sendMsg()
 
-        except Exception as e:
+        #except Exception as e:
             print(e)
 
         self.markAsDelivered(author_id, thread_id)
@@ -20763,7 +20763,7 @@ while True:
                         #self.send(Message(text=reply), thread_id=thread_id,
                             #      thread_type=thread_type)
 
-            except:
+            #except:
                 pass
 
     #def onColorChange(self, mid=None, author_id=None, nSUW4R K3 P1LL3 :Dew_color=None, thread_id=None, thread_type=ThreadType.USER, **kwargs):
@@ -20823,6 +20823,6 @@ print(client.isLoggedIn())
 
 try:
     client.listen()
-except:
+#except:
     time.sleep(3)
     client.listen()
