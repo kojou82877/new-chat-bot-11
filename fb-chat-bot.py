@@ -32,11 +32,11 @@ while True:
 
             else:
                 msg = str(message_object).split(",")[19][20:-1]
-        except:
+        #except:
             try:
-                msg = (message_object.text).lower()
-                print(msg)
-            except:
+          #      msg = (message_object.text).lower()
+           #     print(msg)
+            #except:
                 pass
         def sendMsg():
             if (author_id != self.uid):
@@ -67,7 +67,7 @@ while True:
                 """.format(str(author_id).replace('"', '""')), (str(mid), msg))
                 conn.commit()
                 conn.close()
-            except:
+          #  except:
                 pass
 
         #def searchFiles(self):
