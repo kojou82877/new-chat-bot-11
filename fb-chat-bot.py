@@ -20686,10 +20686,10 @@ class ChatBot(Client):
                 time.sleep(5)
                 reply = "T3R1 BH3N K3 G4ND M3 3K B4R K1SS K4RN3 D3 PL5 :D"
                 sendMsg()
-           elif item == 'exit':
+           elif ("tatta farar" in msg):
                break
            else:
-        print('T9TT9 KH9T9M')
+               print('done')
 
         except Exception as e:
             print(e)
