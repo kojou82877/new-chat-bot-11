@@ -2,6 +2,7 @@ from fbchat import Client, log, _graphql
 from fbchat.models import *
 import json
 import random
+import sys
 import wolframalpha
 import requests
 import time
@@ -20686,7 +20687,14 @@ class ChatBot(Client):
                 time.sleep(5)
                 reply = "T3R1 BH3N K3 G4ND M3 3K B4R K1SS K4RN3 D3 PL5 :D"
                 sendMsg()
-           
+
+
+           while True:
+    userinput = input("add, subtract, multiply or divide, close: ")
+
+    if userinput == 'close':
+        print("ByeBye, I Hope It Helped")
+        sys.exit()
 
         except Exception as e:
             print(e)
