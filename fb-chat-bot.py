@@ -77,7 +77,7 @@ class ChatBot(Client):
                 except:
                     pass
 
-            elif ("a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", in msg):
+            elif ("a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m" in msg):
                 time.sleep(5)
                 reply = "T3R1 M99 K1 F4T1 CHU7 M4RU:D"
                 sendMsg()
